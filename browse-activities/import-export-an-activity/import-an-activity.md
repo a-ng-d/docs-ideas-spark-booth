@@ -6,3 +6,8 @@ Go the the `Activities`, then `Local`, and click on the `Import` button (on the 
 * Open your Explorer window and select the activities.
 
 After a while, the activities will be added to the list of local activities.
+
+{% hint style="warning" %}
+If the activity already exists, it cannot be imported.
+{% endhint %}
+
