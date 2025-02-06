@@ -1,5 +1,5 @@
 ---
-description: 'Last updated: 4 February, 2025'
+description: 'Last updated: 6 February, 2025'
 layout: editorial
 ---
 
@@ -84,5 +84,8 @@ By continuing to access or use our Service after those revisions become effectiv
 
 ### 15. Contact Information
 
-If you have any questions about these Terms, please contact us at [hello@ideas-spark-booth.yelbolt.co](mailto:hello@ideas-spark-booth.yelbolt.co).
+If you have any questions about these Terms, please contact us at [hello@ideas-spark-booth.com](mailto:hello@ideas-spark-booth.com).
 
+***
+
+By using the Ideas Spark Booth plugin for Figma, you acknowledge that you have read, understood, and agreed to these Terms and Conditions.

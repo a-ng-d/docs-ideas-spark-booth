@@ -1,5 +1,5 @@
 ---
-description: 'Last updated: 4 February, 2025'
+description: 'Last updated: 6 February, 2025'
 layout: editorial
 ---
 
@@ -46,7 +46,7 @@ In accordance with data protection regulations, you have the right to:
 * Request the portability of your personal data
 * Withdraw your consent to the use of cookies
 
-To exercise these rights, please contact us at: [hello@ideas-spark-booth.yelbolt.co](mailto:hello@ideas-spark-booth.yelbolt.co).
+To exercise these rights, please contact us at: [hello@ideas-spark-booth.com](mailto:hello@ideas-spark-booth.com).
 
 ### 6. Third-Party Services
 
@@ -72,4 +72,4 @@ We reserve the right to modify this Cookie Policy at any time. Changes will be p
 
 ### 8. Contact
 
-If you have any questions or concerns about our Cookie Policy, please contact us at: [hello@ideas-spark-booth.yelbolt.co](mailto:hello@ideas-spark-booth.yelbolt.co).
+If you have any questions or concerns about our Cookie Policy, please contact us at: [hello@ideas-spark-booth.com](mailto:hello@ideas-spark-booth.com).

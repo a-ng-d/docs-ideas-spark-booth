@@ -1,5 +1,5 @@
 ---
-description: 'Last updated: 4 February, 2025'
+description: 'Last updated: 6 February, 2025'
 layout: editorial
 ---
 
@@ -54,7 +54,7 @@ In accordance with data protection regulations, you have the following rights:
 * **Right to Portability**: You may request to receive your personal information in a structured, machine-readable format.
 * **Right to Object**: You may object to the processing of your personal information for legitimate reasons.
 
-To exercise these rights, please contact us at: [privacy@ideas-spark-booth.yelbolt.co](mailto:privacy@ideas-spark-booth.yelbolt.co).
+To exercise these rights, please contact us at: [privacy@ideas-spark-booth.com](mailto:privacy@ideas-spark-booth.com).
 
 #### 5.1. Rights of California Residents
 
@@ -78,7 +78,7 @@ If you are a resident of Switzerland, you have the following additional rights u
 * **Right to Access**: You may request access to your personal information.
 * **Right to Rectification**: You may request the correction of any inaccurate personal information.
 
-To exercise these rights, please contact us at: [privacy@ideas-spark-booth.yelbolt.co](mailto:privacy@ideas-spark-booth.yelbolt.co).
+To exercise these rights, please contact us at: [privacy@ideas-spark-booth.com](mailto:privacy@ideas-spark-booth.com).
 
 ### 6. Data Security
 
@@ -94,7 +94,7 @@ If we transfer your personal information outside of the European Union or other 
 
 ### 9. Cookies and Tracking Technologies
 
-We use cookies and similar tracking technologies to collect and use personal information about you. For more information about the types of cookies we use and how to manage your cookie preferences, please see our [Cookie Policy](cookie-policy.md).
+We use cookies and similar tracking technologies to collect and use personal information about you. For more information about the types of cookies we use and how to manage your cookie preferences, please see our [Cookie Policy](https://isb.ylb.lt/cookies).
 
 ### 10. Protection of Minors
 
@@ -106,7 +106,7 @@ In the event of a data breach, we will take appropriate measures to investigate 
 
 ### 12. Data Protection Officer
 
-If you have any questions or concerns about our data protection practices, you may contact our Data Protection Officer at: [dpo@ideas-spark-booth.yelbolt.co](mailto:dpo@ideas-spark-booth.yelbolt.co).
+If you have any questions or concerns about our data protection practices, you may contact our Data Protection Officer at: [dpo@ideas-spark-booth.com](mailto:dpo@ideas-spark-booth.com).
 
 ### 13. Changes to the Privacy Policy
 
@@ -114,5 +114,9 @@ We may update this Privacy Policy from time to time. Any changes will be posted 
 
 ### 14. Contact
 
-If you have any questions or concerns about this Privacy Policy, please contact us at: [privacy@ideas-spark-booth.yelbolt.co](mailto:privacy@ideas-spark-booth.yelbolt.co).
+If you have any questions or concerns about this Privacy Policy, please contact us at: [privacy@ideas-spark-booth.com](mailto:privacy@ideas-spark-booth.com).
+
+***
+
+Last Updated: \[Update Date]
 
