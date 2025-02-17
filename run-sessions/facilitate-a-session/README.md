@@ -4,7 +4,7 @@ icon: '1'
 
 # Facilitate a session
 
-{% embed url="https://screen.studio/share/gaXKV8Ro" %}
+{% embed url="https://screen.studio/share/gaXKV8Ro" fullWidth="true" %}
 
 {% content-ref url="prepare-the-session.md" %}
 [prepare-the-session.md](prepare-the-session.md)

@@ -4,7 +4,7 @@ icon: '3'
 
 # Import/Export an activity
 
-{% embed url="https://screen.studio/share/eAAmfyma" %}
+{% embed url="https://screen.studio/share/eAAmfyma" fullWidth="true" %}
 
 An activity is composed of:
 

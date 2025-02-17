@@ -4,7 +4,7 @@ icon: '1'
 
 # Create an activity
 
-{% embed url="https://screen.studio/share/3keAhwyx" %}
+{% embed url="https://screen.studio/share/3keAhwyx" fullWidth="true" %}
 
 {% content-ref url="change-the-global-settings.md" %}
 [change-the-global-settings.md](change-the-global-settings.md)
