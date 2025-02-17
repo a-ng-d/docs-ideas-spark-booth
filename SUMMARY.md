@@ -9,6 +9,7 @@
   * [Change the global settings](browse-activities/create-an-activity/change-the-global-settings.md)
   * [Change the timer](browse-activities/create-an-activity/change-the-timer.md)
   * [Set the idea types](browse-activities/create-an-activity/set-the-idea-types.md)
+  * [Add a template](browse-activities/create-an-activity/add-a-template.md)
 * [Explore activities](browse-activities/explore-activities.md)
 * [Import/Export an activity](browse-activities/import-export-an-activity/README.md)
   * [Export an activity](browse-activities/import-export-an-activity/export-an-activity.md)

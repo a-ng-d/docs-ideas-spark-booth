@@ -54,7 +54,7 @@ description: A quick glance at the controller
    * `Ellipses` button:
      * `Add overview to slides`: Generate a summary of the activity on a `Slides` document.
      * `Add overview to board`: Generate a summary of the activity on a `FigJam` board.
-     * `Add a report to slides`: Generate a summary followed by each session related to the activity on a `Slides` document.
+     * `Add a report to slides`: Generate a summary of each session related to the activity on a `Slides` document.
      * Import sessions into the activity.
      * Export the activity (configuration, sessions, ideas) to use it in another document.
      * Delete the activity.
@@ -67,5 +67,6 @@ description: A quick glance at the controller
 8. Add a `Type`.
 9. Rename the type, change its color, and add a `Description`.
 10. Remove a `Type`.
-11. Import sessions into the activity.
-12. Access a specific session from the history.
+11. Save a `Template` from the `FigJam` board.
+12. Import sessions into the activity.
+13. Access a specific session from the `History`.
