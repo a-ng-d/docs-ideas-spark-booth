@@ -1,11 +1,11 @@
 ---
-icon: eyes
 description: A quick glance at the controller
+icon: eyes
 ---
 
 # Overview
 
-<figure><img src="../.gitbook/assets/participate_in_a_session-facilitate.png" alt=""><figcaption><p>Facilitate</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/participate_in_a_session-facilitate.png" alt=""><figcaption><p>Facilitator</p></figcaption></figure>
 
 1. `End session` and back to the local activities list.
 2. Update the typed ideas:
