@@ -5,29 +5,29 @@ layout: editorial
 
 # Privacy Policy
 
-### 1. Introduction
+## 1. Introduction
 
 At Ideas Spark Booth, we are committed to protecting the privacy of our users. This Privacy Policy explains how we collect, use, disclose, and protect your personal information in accordance with international regulations, including the General Data Protection Regulation (GDPR), Law 25, the California Consumer Privacy Act (CCPA), the Consumer Privacy Act (CPA), and the new Federal Act on Data Protection (nFADP).
 
-### 2. Collection of Information
+## 2. Collection of Information
 
-#### 2.1. Personal Information
+### 2.1. Personal Information
 
 We collect the email addresses of our users when they create an account on our platform. This information is necessary to provide our services and communicate with you.
 
-#### 2.2. Usage Data
+### 2.2. Usage Data
 
 We use Mixpanel to save events and track the usage of our service. The data collected may include information about how you interact with our website or application, such as pages visited, links clicked, and other actions you perform. Mixpanel collects personal information only with your explicit consent, and the data is stored within the European Union.
 
-#### 2.3. Account Creation
+### 2.3. Account Creation
 
 To create an account on our platform, we use Supabase. The information collected may include your email address, name, and other personal information necessary to create and manage your account. Supabase stores personal account information.
 
-#### 2.4. Analytics
+### 2.4. Analytics
 
 We use Google Analytics to collect and analyze usage data. Google Analytics collects personal information only with your explicit consent.
 
-### 3. Use of Information
+## 3. Use of Information
 
 We use the collected information to:
 
@@ -36,7 +36,7 @@ We use the collected information to:
 * Analyze the usage of our service to enhance the user experience.
 * Ensure the security of our service and protect against fraudulent activities.
 
-### 4. Sharing of Information
+## 4. Sharing of Information
 
 We do not sell, trade, or rent your personal information to third parties without your explicit consent, except in the following cases:
 
@@ -44,7 +44,7 @@ We do not sell, trade, or rent your personal information to third parties withou
 * To comply with legal obligations or respond to legitimate requests from public authorities.
 * To protect our rights, property, or safety, as well as that of our users or the public.
 
-### 5. Your Rights
+## 5. Your Rights
 
 In accordance with data protection regulations, you have the following rights:
 
@@ -56,7 +56,7 @@ In accordance with data protection regulations, you have the following rights:
 
 To exercise these rights, please contact us at: [privacy@ideas-spark-booth.com](mailto:privacy@ideas-spark-booth.com).
 
-#### 5.1. Rights of California Residents
+### 5.1. Rights of California Residents
 
 If you are a resident of California, you have the following additional rights under the CCPA:
 
@@ -64,14 +64,14 @@ If you are a resident of California, you have the following additional rights un
 * **Right to Delete**: You may request the deletion of your personal information.
 * **Right to Non-Discrimination**: You have the right not to be discriminated against for exercising your CCPA rights.
 
-#### 5.2. Rights of Canadian Residents
+### 5.2. Rights of Canadian Residents
 
 If you are a resident of Canada, you have the following additional rights under the CPA:
 
 * **Right to Access**: You may request access to your personal information.
 * **Right to Rectification**: You may request the correction of any inaccurate personal information.
 
-#### 5.3. Rights of Swiss Residents
+### 5.3. Rights of Swiss Residents
 
 If you are a resident of Switzerland, you have the following additional rights under the nFADP:
 
@@ -80,41 +80,39 @@ If you are a resident of Switzerland, you have the following additional rights u
 
 To exercise these rights, please contact us at: [privacy@ideas-spark-booth.com](mailto:privacy@ideas-spark-booth.com).
 
-### 6. Data Security
+## 6. Data Security
 
 We implement technical and organizational security measures to protect your personal information from unauthorized access, use, disclosure, alteration, or destruction.
 
-### 7. Data Retention
+## 7. Data Retention
 
 We retain your personal information for as long as necessary to provide our services and comply with our legal obligations. Once your information is no longer needed, we securely delete it.
 
-### 8. International Data Transfers
+## 8. International Data Transfers
 
 If we transfer your personal information outside of the European Union or other jurisdictions with strict data protection laws, we will ensure that appropriate safeguards are in place, such as the use of standard contractual clauses approved by the European Commission.
 
-### 9. Cookies and Tracking Technologies
+## 9. Cookies and Tracking Technologies
 
 We use cookies and similar tracking technologies to collect and use personal information about you. For more information about the types of cookies we use and how to manage your cookie preferences, please see our [Cookie Policy](https://isb.ylb.lt/cookies).
 
-### 10. Protection of Minors
+## 10. Protection of Minors
 
 Our services are not intended for use by minors. We do not knowingly collect personal information from minors. If we become aware that we have collected personal information from a minor, we will take steps to delete it.
 
-### 11. Data Breach Procedures
+## 11. Data Breach Procedures
 
 In the event of a data breach, we will take appropriate measures to investigate and remediate the breach. We will also notify affected users and relevant authorities as required by law.
 
-### 12. Data Protection Officer
+## 12. Data Protection Officer
 
 If you have any questions or concerns about our data protection practices, you may contact our Data Protection Officer at: [dpo@ideas-spark-booth.com](mailto:dpo@ideas-spark-booth.com).
 
-### 13. Changes to the Privacy Policy
+## 13. Changes to the Privacy Policy
 
 We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated date. We encourage you to review this policy regularly to stay informed about how we protect your personal information.
 
-### 14. Contact
+## 14. Contact
 
 If you have any questions or concerns about this Privacy Policy, please contact us at: [privacy@ideas-spark-booth.com](mailto:privacy@ideas-spark-booth.com).
-
-
 
